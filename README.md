@@ -1,5 +1,7 @@
 # ip_location
 
+# TODO - UPDATE FOR API KEY
+
 Get an IP location from the command line.
 
 1. Make the Script Executable: Use the chmod command to make the script executable.
